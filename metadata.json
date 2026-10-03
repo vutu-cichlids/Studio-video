@@ -1,0 +1,6 @@
+{
+  "name": "PromptCut AI - Studio Xử Lý & Biên Tập Video",
+  "description": "Nền tảng xử lý video theo prompt, tự động bóc tách audio/video, điều phối AI Production Agent và bộ công cụ dựng timeline chuyên nghiệp chuẩn CapCut/Premiere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
